@@ -43,7 +43,7 @@
                     </span>
                     <form action="custommer.html">
                     <div class="wrap-input100 validate-input"
-                        data-validate="Bạn cần nhập đúng thông tin như: ex@abc.xyz">
+                        data-validate="You need to enter correct information like: ex@abc.xyz">
                         <input class="input100" type="text" placeholder="Enter username" name="username" id="username">
                         <span class="focus-input100"></span>
                         <span class="symbol-input100">
@@ -51,7 +51,7 @@
                         </span>
                     </div>
 
-                    <div class="wrap-input100 validate-input" data-validate="Password không được bỏ trống!">
+                    <div class="wrap-input100 validate-input" data-validate="Password not be empty!">
                         <input class="input100" type="password" placeholder="Enter password" name="current-password"
                             id="password-field">
                         <span toggle="#password-field" class="fa fa-fw fa-eye field-icon toggle-password"></span>
@@ -68,7 +68,7 @@
                     <span class="txt1">
                         Forgot?
                     </span>
-                    <a class="txt2" href="/tim-lai-mat-khau.html">
+                    <a class="txt2" href="/Forgot_User$Password.php">
                         Username / Password?
                     </a>
                 </div>  
