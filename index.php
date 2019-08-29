@@ -68,7 +68,7 @@
                     <span class="txt1">
                         Forgot?
                     </span>
-                    <a class="txt2" href="/Forgot_User$Password.php">
+                    <a class="txt2" href="/Forgot_User&Password.php">
                         Username / Password?
                     </a>
                 </div>  
